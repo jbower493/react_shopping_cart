@@ -1,21 +1,15 @@
 import React from 'react';
 import "./App.css";
 
-import { Provider } from 'react-redux';
-import store from './store';
-
-import Posts from './Components/Posts';
-import PostForm from './Components/PostForm';
-
 function App() {
   return (
-    <Provider store={store}>
-      <div className="App">
-        <PostForm />
-        <hr/>
-        <Posts />
-      </div>
-    </Provider>
+    <div className="grid-container">
+      <header>
+        <a href="/">React Shopping Cart</a>
+      </header>
+      <main>Product List</main>
+      <footer>All rights reserved.</footer>
+    </div>
   );
 }
 
