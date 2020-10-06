@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "_id": "dress1",
+      "_id": 1,
       "title": "Midi sundress with shirring detail",
       "description": "Some description about this particular dress, very important.",
       "price": 29.90,
@@ -9,7 +9,7 @@
       "image": "/images/dress1.jpg"
     },
     {
-      "_id": "dress2",
+      "_id": 2,
       "title": "Midi sundress with ruched front",
       "description": "Some description about this particular dress, very important.",
       "price": 18.90,
@@ -17,7 +17,7 @@
       "image": "/images/dress2.jpg"
     },
     {
-      "_id": "dress3",
+      "_id": 3,
       "title": "Long dress with flower pattern",
       "description": "Some description about this particular dress, very important.",
       "price": 34.90,
@@ -25,7 +25,7 @@
       "image": "/images/dress3.jpg"
     },
     {
-      "_id": "dress4",
+      "_id": 4,
       "title": "Plain black dress",
       "description": "Some description about this particular dress, very important.",
       "price": 14.90,
